@@ -9,8 +9,7 @@
 
 🐱‍👤 Usually i have practice on Kaggle (Compititions Contributor). It's a good place to learning. / Обычно я практикусюь на Кагле. Это крутое место для обучения.
 
-🥇 Certificates / Сертификаты: Here tou can see my certificates / Здесь Вы можете посмотреть мои сертификаты https://drive.google.com/drive/folders/1jlJS8gDcUW2bSR-v5HlEzRIm5LbL86cm?usp=sharing
-
+🥇 Certificates / Сертификаты: Here tou can see my certificates / Здесь Вы можете посмотреть мои сертификаты https://github.com/tata2351/Certificates
 📊 Work Experience / Опыт работы : Cooming Soon / Будет добавлено позже
 
 🚀 How to reach me telegram: @tTata_Sevastyanova/ Связаться со мной можно через телеграмм
